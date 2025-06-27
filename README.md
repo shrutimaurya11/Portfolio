@@ -1,8 +1,8 @@
 # 👩‍💻 Shruti Maurya – Portfolio
 
 🎓 **B.Tech in Computer Science (AI & ML)**  
-📍 VIT Bhopal University (Expected May 2026)  
-📫 shrutimaurya11@gmail.com | 📞 +91 8800265593  
+📍 VIT Bhopal University (Expected Oct 2026)  
+📫 shrutimaurya1104@gmail.com | 📞 +91 8800265593  
 🔗 [LinkedIn](https://linkedin.com/in/shrutimaurya1104) • [GitHub](https://github.com/shrutimaurya11)
 
 ---
