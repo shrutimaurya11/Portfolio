@@ -1,50 +1,56 @@
-# 👩‍💻 Shruti Maurya – Portfolio
+# 👩‍💻 Shruti Maurya
 
-🎓 **B.Tech in Computer Science (AI & ML)**  
-📍 VIT Bhopal University (Expected Oct 2026)  
-📫 shrutimaurya1104@gmail.com | 📞 +91 8800265593  
-🔗 [LinkedIn](https://linkedin.com/in/shrutimaurya1104) • [GitHub](https://github.com/shrutimaurya11)
-
----
-
-## 💡 About Me
-
-I'm a final-year Computer Science student specializing in **Artificial Intelligence & Machine Learning**, with hands-on experience building ML models, full-stack web apps, and data-driven solutions. I love solving real-world problems with clean code and intelligent systems.
+Hi, I’m **Shruti Maurya**, a final-year **B.Tech CSE (AI & ML)** student at **VIT Bhopal University**.  
+I’m passionate about **Machine Learning, Deep Learning, and Full-Stack ML Applications**.  
+I love building **end-to-end AI solutions** that combine data preprocessing, modeling, and deployment.
 
 ---
 
-## 🚀 Projects
-
-### 🔹 [Movie Recommendation System](https://github.com/shrutimaurya11/Movie-Recommendation-System)
-A content-based movie recommender using TF-IDF and cosine similarity. Built using Pandas, Scikit-learn, and Jupyter Notebook.
-
-### 🔹 [Diabetes Prediction Model](https://github.com/shrutimaurya11/Diabeties-Prediction)
-ML models (Logistic Regression, Random Forest) trained on the PIMA dataset. Evaluated using confusion matrix and ROC-AUC.
-
-### 🔹 [Weather Forecasting App](https://github.com/shrutimaurya11/Weather-Forecasting-App)
-Frontend web app using HTML, CSS & JavaScript with real-time weather API integration and geolocation support.
+## 🚀 Technical Skills
+- **Languages:** Python, SQL, Java, C++
+- **Machine Learning:** TensorFlow, Scikit-learn, LSTM, Neural Networks, Predictive Modeling  
+- **Databases:** MySQL, PostgreSQL, Data Warehousing  
+- **Tools:** Jupyter Notebook, Git, Gradio, Streamlit, Microsoft Excel  
 
 ---
 
-## 🛠️ Skills
+## 📌 Projects
 
-**Languages:** Python, Java, C++, SQL  
-**Libraries & Tools:** Scikit-learn, Pandas, NumPy, TensorFlow, Matplotlib  
-**Concepts:** Classification, Regression, Neural Networks  
-**Tools:** Git, GitHub, Jupyter, Colab, VS Code  
+### [📈 Stock Price Prediction using LSTM](https://github.com/shrutimaurya11/stock-price-prediction)
+- Built an **LSTM-based time-series forecasting model** to predict Apple Inc. stock prices with **92% accuracy**  
+- Integrated **technical indicators** like Moving Averages & Bollinger Bands for improved performance  
+- Deployed with **Gradio** on Hugging Face → **500+ user interactions**  
+
+### [🩺 Diabetes Prediction System](https://github.com/shrutimaurya11/Diabetes-Prediction)
+- Developed ML classification system using **Logistic Regression, Random Forest, KNN, SVM**  
+- Achieved **85% accuracy** on PIMA Indian dataset (768 patient records)  
+- Built an interactive **Streamlit app** for healthcare professionals  
+
+### [🎬 Movie Recommendation System](https://github.com/shrutimaurya11/Movie-Recommendation-System)
+- Designed a **content-based recommendation engine** using **cosine similarity**  
+- Processed **5000+ movies** from TMDB dataset with TF-IDF & CountVectorizer  
+- Generated **top-10 personalized recommendations** with 90% relevance  
 
 ---
 
-## 📜 Certifications
-
-- Machine Learning Specialization – Coursera  
-- Generative AI Fundamentals – IBM SkillsBuild  
-- Computer Vision with OpenCV – E-Vityarthi  
-- Python Essentials for AI – E-Vityarthi  
+## 🎓 Certifications
+- **AWS Certified Solutions Architect – Associate** (May 2025)  
+- **Oracle OCI AI Foundations** (Sep 2025)  
+- **IBM SkillsBuild – Generative AI** (Apr 2025)  
 
 ---
 
-## ✨ Let's Connect!
+## 🌱 Extracurriculars
+- **ML Club Core Member – VIT Bhopal University**  
+- Hackathons: **MariaDB Python Hackathon** (database-driven ML applications)  
+- Attended **Finance 101 Seminar** (StockPe & FinTech Club)  
 
-I'm open to internship, project collaboration, jobs. Feel free to connect!
+---
 
+## 📫 Connect with Me
+- 📧 Email: [shrutimaurya1104@gmail.com](mailto:shrutimaurya1104@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/shrutimaurya1104](https://linkedin.com/in/shrutimaurya1104)  
+- 💻 GitHub: [github.com/shrutimaurya11](https://github.com/shrutimaurya11)  
+
+---
+⭐️ From [Shruti Maurya](https://github.com/shrutimaurya11)
